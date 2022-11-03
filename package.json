@@ -1,4 +1,4 @@
-{ggit   "name": "react-gh-singlepageapplication-deploy",
+{  "name": "react-vercel-gh-singlepageapplication-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
