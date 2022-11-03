@@ -1,3 +1,5 @@
+import React from 'react'
+
 import pic1 from './ac1.jpeg'
 
 import pici from './Home_AI.jpg'

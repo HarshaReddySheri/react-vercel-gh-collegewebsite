@@ -1,3 +1,4 @@
+import React from 'react'
 import pic from './abc.jpg'
 
 import picx from './tour.png'
